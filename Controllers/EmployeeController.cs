@@ -18,7 +18,7 @@ namespace EmployeePayrollMVC.Controllers
             return View();
         }
         /// <summary>
-        /// Register or Add new employee details to database
+        /// Register or Add multiple employee details to database
         /// </summary>
         /// <param name="employee"></param>
         /// <returns></returns>
